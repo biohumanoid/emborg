@@ -315,7 +315,7 @@ BorgBase
 --------
 
 `BorgBase <https://www.borgbase.com>`_ is another commercial alternative for 
-*Borg Backups*.  It allows full *Borg* access, append-only *Borg* access, and 
+*Rsync.net*.  It allows full *Borg* access, append-only *Borg* access, and 
 *rsync* access, though each form of access requires its own unique SSH key.
 
 Again, you should use some form of *keyfile* encryption to keep your files 
